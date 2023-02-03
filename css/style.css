@@ -1,0 +1,23 @@
+body {
+  direction: rtl;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 5rem;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+p {
+  font-size: 2rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+  font-size: .8333rem !important;
+}
+
+button:hover {
+  background-color: green !important;
+}
